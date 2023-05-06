@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Zhenghao, Welcome to my Github!
+### I'm Zhenghao, Welcome to my Github!
 
-![Zhenghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-zhenghao-BU&show_icons=true&theme=radical)
+![Zhenghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-zhenghao-BU&show_icons=true&theme=gruvbox)
+
+![Zhenghao's language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-zhenghao-BU&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=gruvbox)
 <!--
 **Sun-zhenghao-BU/Sun-zhenghao-BU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
